@@ -1,8 +1,8 @@
 #include"../apue.h"
 #include<fcntl.h>
 
-char	buf1[] = "abcdefg";
-char	buf2[] = "ABCDEFG";
+char	buf1[] = "abcdefghij";
+char	buf2[] = "ABCDEFGHIJ";
 
 int main(void)
 {
